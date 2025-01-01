@@ -19,7 +19,7 @@ This project is a project management application that provides RESTful APIs for 
 
 2. Navigate to the project directory:
    ```bash
-   cd project-management
+   cd project_management
    ```
 
 3. Install dependencies:
