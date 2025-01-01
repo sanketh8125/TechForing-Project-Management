@@ -14,7 +14,7 @@ This project is a project management application that provides RESTful APIs for 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sanketh8125/TechForing-Project-Management.git
    ```
 
 2. Navigate to the project directory:
